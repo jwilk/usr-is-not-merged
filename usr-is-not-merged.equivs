@@ -1,0 +1,10 @@
+Section: admin
+Priority: extra
+Homepage: https://github.com/jwilk/usr-is-not-merged
+
+Package: usr-is-not-merged
+Version: 0
+Provides: usr-is-merged
+Conflicts: usrmerge
+Maintainer: Jakub Wilk <jwilk@jwilk.net>
+Description: dummy replacement for usr-is-merged
